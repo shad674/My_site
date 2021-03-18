@@ -125,12 +125,13 @@ body {
  
  .btn:hover {
     border: solid #337FED 1px;
-    background: #30E3CB;
-    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
-    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
-    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
-    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
-    background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+    background: #e4bad4; 
+    background-image: -webkit-linear-gradient(top, #30E3CB, #e4bad4);
+    background-image: -moz-linear-gradient(top, #30E3CB, #e4bad4);
+    background-image: -ms-linear-gradient(top, #30E3CB, #e4bad4);
+    background-image: -o-linear-gradient(top, #30E3CB, #e4bad4);
+    background-image: -webkit-gradient(to bottom, #30E3CB, #e4bad4);
+    color: white;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
