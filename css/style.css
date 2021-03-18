@@ -10,6 +10,12 @@ body {
     line-height: 2;
 }
 
+.copyright{
+    color: #f5c0c0;
+    font-size: 0.9rem; 
+    padding: 15px;
+}
+
 
 .top-container{
     background-color: #e4fbff;
@@ -55,8 +61,9 @@ body {
 }
 
 .mountain{
-    margin: 10px auto 10px auto;
-    width:30%; 
+    margin: 10px auto 0px auto;
+    width: 350px;
+  
 }
 
 .sun{
@@ -131,11 +138,17 @@ body {
  }
 
 
+
 a{
     color: #66BfBf;
     margin: 5px;
     padding: 15px;
     text-decoration: none;
+
+}
+
+a:hover {
+    color:#f5c0c0;
 
 }
 
