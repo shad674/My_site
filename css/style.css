@@ -10,34 +10,17 @@ body {
     line-height: 2;
 }
 
-.left-cloud{
-    position: relative;
-    bottom: 400px;
-    left: 50px
-}
-
-.mountain {
-    position: relative;
-    right: 50px;
-   
-
-}
-
-.right-cloud{
-    position: relative;
-    left: 200px;
-    top: 300px;
-
-}
 
 .top-container{
     background-color: #e4fbff;
     position: relative;
+    margin:0px;
 }
 
 .bottom-container{
     background-color: #e4fbff;
     padding: 30px;
+    margin:0px;
     
 }
 
@@ -78,10 +61,6 @@ body {
 
 }
 
-.sun {
-    position: relative;
-    left: 60px;
-}
 
 .skill-code {
     position: relative;
