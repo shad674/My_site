@@ -54,6 +54,16 @@ body {
     height: 150px;
 }
 
+.mountain{
+    position: relative;
+    margin: 10px auto 10px auto; 
+}
+
+.sun{
+    position: relative;
+    margin: 10px auto 10px auto;
+}
+
 .skill-row{
     width: 50%;
     margin: 100px auto 100px auto;
