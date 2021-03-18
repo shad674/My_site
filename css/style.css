@@ -55,9 +55,8 @@ body {
 }
 
 .mountain{
-    position: relative;
     margin: 10px auto 10px auto;
-    width:40%; 
+    width:30%; 
 }
 
 .sun{
