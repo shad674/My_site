@@ -36,6 +36,13 @@ body {
     top: 123px;
 }
 
+.resume {
+    height: 70vw;
+    width:55vw;
+    margin-top: 2em;
+
+}
+
 .paragraph{
     width:80%;
     margin: 0 auto 0 auto;
