@@ -12,7 +12,7 @@ body {
 
 .copyright{
     color: #f5c0c0;
-    font-size: 0.9rem; 
+    font-size: 0.9rem;
     padding: 15px;
 }
 
@@ -27,7 +27,7 @@ body {
     background-color: #e4fbff;
     padding: 30px;
     margin:0px;
-    
+
 }
 
 .robot{
@@ -37,7 +37,7 @@ body {
 }
 
 .resume {
-    height: 70vw;
+    height: 30rem;
     width: 60%;
     margin-top: 2rem;
 
@@ -58,7 +58,7 @@ body {
 .programmer{
     color: #f5c0c0;
     font-size: 2.5rem;
-    font-family: 'Montserrat', sans-serif; 
+    font-family: 'Montserrat', sans-serif;
 }
 
 .shad{
@@ -70,7 +70,7 @@ body {
 .mountain{
     margin: 10px auto 0px auto;
     width: 350px;
-  
+
 }
 
 .sun{
@@ -96,7 +96,7 @@ body {
 
 .skill-sport{
     float: right;
-    
+
 }
 
 .skill-chess{
@@ -117,7 +117,7 @@ body {
    height: 0;
    line-height: 0;
    color: #FFFFFF;
-   font-family: 'Montserrat', sans-serif; 
+   font-family: 'Montserrat', sans-serif;
    width: 150px;
    font-size: 20px;
    font-weight: 100;
@@ -129,10 +129,10 @@ body {
    cursor: pointer;
    text-align: center;
  }
- 
+
  .btn:hover {
     border: solid #337FED 1px;
-    background: #e4bad4; 
+    background: #e4bad4;
     background-image: -webkit-linear-gradient(top, #30E3CB, #e4bad4);
     background-image: -moz-linear-gradient(top, #30E3CB, #e4bad4);
     background-image: -ms-linear-gradient(top, #30E3CB, #e4bad4);
@@ -193,9 +193,9 @@ hr{
     border-width: 5px;
     width: 20%;
     margin: 60px auto 60px auto;
-    
-    
-    
+
+
+
 }
 
 p {
