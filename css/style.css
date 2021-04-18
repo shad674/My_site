@@ -106,8 +106,24 @@ body {
 
 .project-Tindog{
   height: 40rem;
-  width: 30rem;
+  width: 40rem;
   margin-top: 2rem;
+}
+
+@media (max-width:900px) {
+  .project-Tindog{
+    height: 40rem;
+    width: 80%;
+    margin-top: 2rem;
+  }
+
+  .resume {
+      height: 40rem;
+      width: 80%;
+      margin-top: 2rem;
+
+  }
+
 }
 
 .btn {
