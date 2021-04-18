@@ -37,7 +37,7 @@ body {
 }
 
 .resume {
-    height: 30rem;
+    height: 40rem;
     width: 60%;
     margin-top: 2rem;
 
@@ -102,6 +102,12 @@ body {
 .skill-chess{
     float: left;
     margin-right:30px;
+}
+
+.project-Tindog{
+  height: 40rem;
+  width: 60%;
+  margin-top: 2rem;
 }
 
 .btn {
